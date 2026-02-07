@@ -1,0 +1,15 @@
+C:\Users\avdoy\source\repos\test\test\bin\Debug\test.exe.config
+C:\Users\avdoy\source\repos\test\test\bin\Debug\test.exe
+C:\Users\avdoy\source\repos\test\test\bin\Debug\test.pdb
+C:\Users\avdoy\source\repos\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\avdoy\source\repos\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\avdoy\source\repos\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\avdoy\source\repos\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\avdoy\source\repos\test\test\obj\Debug\test.exe
+C:\Users\avdoy\source\repos\test\test\obj\Debug\test.pdb
+C:\Users\avdoy\source\repos\test\test\obj\Debug\test.Avtorizacia.resources
+C:\Users\avdoy\source\repos\test\test\bin\Debug\kartinki\facebook_icon-icons.com_53612.ico
+C:\Users\avdoy\source\repos\test\test\bin\Debug\kartinki\Icon.ico
+C:\Users\avdoy\source\repos\test\test\bin\Debug\kartinki\Icon.JPG
+C:\Users\avdoy\source\repos\test\test\bin\Debug\kartinki\Icon.png
+C:\Users\avdoy\source\repos\test\test\obj\Debug\test.formi.FormVibora.resources
